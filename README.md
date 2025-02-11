@@ -27,6 +27,26 @@ The training content is divided into the following modules:
 
 
 
+## 📝 Additional Resources
+- **Quizzes:** Test your knowledge with our quizzes in the [quizzes](quizzes/) folder.
+- **Policy & Best Practices:** Refer to the [resources](resources/) folder for security policy templates and best practice guidelines.
+- **Simulated Exercises:** Use scripts in the [scripts](scripts/) folder for simulated phishing and security drills.
+
+## 🚀 Getting Started
+1. Clone the repository.
+2. Navigate to the module that interests you.
+3. Follow the instructions provided in each module.
+4. Contribute by submitting pull requests for new materials or improvements.
+
+## 📢 Contributions
+Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
+
+## 📜 License
+This project is licensed under the CC0 1.0 Universal. See the [LICENSE](LICENSE) file for details.
+
+
+
+
 
 # آموزش آگاهی از امنیت سایبری برای کارمندان
 
@@ -51,26 +71,3 @@ The training content is divided into the following modules:
 
 برای مطالعه هر مدول، روی لینک مربوطه کلیک کنید.
 
-
-
-
-
-
-
-
-## 📝 Additional Resources
-- **Quizzes:** Test your knowledge with our quizzes in the [quizzes](quizzes/) folder.
-- **Policy & Best Practices:** Refer to the [resources](resources/) folder for security policy templates and best practice guidelines.
-- **Simulated Exercises:** Use scripts in the [scripts](scripts/) folder for simulated phishing and security drills.
-
-## 🚀 Getting Started
-1. Clone the repository.
-2. Navigate to the module that interests you.
-3. Follow the instructions provided in each module.
-4. Contribute by submitting pull requests for new materials or improvements.
-
-## 📢 Contributions
-Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
-
-## 📜 License
-This project is licensed under the CC0 1.0 Universal. See the [LICENSE](LICENSE) file for details.
