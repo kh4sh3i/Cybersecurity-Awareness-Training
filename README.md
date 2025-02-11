@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="/img/logo.png" alt="" height="250px;"></a>
+  <a href=""><img src="/img/logo.png" alt="" height="300px;"></a>
   <br>
   <img src="https://img.shields.io/badge/PRs-welcome-blue">
   <img src="https://img.shields.io/github/last-commit/kh4sh3i/Cybersecurity-Awareness-Training">
