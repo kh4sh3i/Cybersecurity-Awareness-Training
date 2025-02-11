@@ -9,10 +9,6 @@
   <a href="https://github.com/kh4sh3i"><img src="https://img.shields.io/github/stars/kh4sh3i?style=flat&logo=github"></a>
 </h1>
 
-# Cybersecurity Awareness Training
-Cybersecurity Awareness Training
-
-
 # 🛡️ Cybersecurity Awareness Training for Employees
 
 Welcome to the **Cybersecurity Awareness Training** repository. This project is designed to help employees understand common cyber threats, best practices, and how to respond to potential security incidents.
